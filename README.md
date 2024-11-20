@@ -1,1 +1,1 @@
-##Basic calculator BUIld using JS,HTML and CSS
+#Basic calculator BUIld using JS,HTML and CSS
